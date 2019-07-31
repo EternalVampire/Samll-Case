@@ -1,0 +1,9 @@
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\bin\Debug\Aircraft War.exe.config
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\bin\Debug\Aircraft War.exe
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\bin\Debug\Aircraft War.pdb
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft War.csprojResolveAssemblyReference.cache
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft_War.Form1.resources
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft_War.Properties.Resources.resources
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft War.csproj.GenerateResource.Cache
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft War.exe
+D:\VS 2012\Finished goods\Aircraft War\Aircraft War\obj\Debug\Aircraft War.pdb

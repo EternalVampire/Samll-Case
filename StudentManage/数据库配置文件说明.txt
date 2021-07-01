@@ -1,5 +1,10 @@
-���ݿ������ļ��� App.config �����ļ��У������и��ĵ�ָ�������ݿ��ļ���ַ
-���ݿ������ַ������£�
+数据库配置文件在 App.config 配置文件中，请根据自己实际情况，自行更改到指定的数据库文件地址
+数据库连接字符串如下：
 <connectionStrings>
-	<add name ="connStr" connectionString ="server =.; database=StudentManageDB; Integrated Security = true;" providerName =" System.Data.SqlClient"/>
+	<add name ="connStr" connectionString ="server =.; database =StudentManageDB; Integrated Security =true;" providerName ="System.Data.SqlClient"/>
+</connectionStrings>  
+  
+无网络情况下，数据库连接字符串如下：
+<connectionStrings>
+	<add name ="connStr" connectionString ="server =127.0.0.1; database =StudentManageDB; User =sa; Pwd =123456"/>
 </connectionStrings>
